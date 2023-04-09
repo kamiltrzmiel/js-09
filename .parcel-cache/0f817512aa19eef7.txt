@@ -83,7 +83,7 @@
 103C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\source-map\dist\source-map.debug.js133251946613337440 0
 120C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\keyboardevent-location.js133251946620701806 0
 130C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\abortcontroller-polyfill\dist\abortcontroller-polyfill-only.js133251946608747681 0
-59C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist133254999006607842 1
+59C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist133255433152992226 1
 98C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\type-fest\source\value-of.d.ts133251946614563333 0
 89C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\parent-module\license133251946608421782 0
 67C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules133251946793953552 1
@@ -158,7 +158,7 @@
 105C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\source-map\dist\utils.js.flow133251946609075032 0
 61C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\src\js133251933117824407 1
 90C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\fast-glob\out\managers133251946616040925 1
-82C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\src\js\01-color-switcher.js133254999006268911 0
+82C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\src\js\01-color-switcher.js133255433152443693 0
 91C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\parse-json\package.json133251946608421782 0
 77C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@trysound133251946598215200 1
 86C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\utility-types\dist133251946613131634 1
@@ -4411,7 +4411,7 @@
 102C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\settings.d.ts133251946613422921 0
 103C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\types\index.js133251946610973976 0
 106C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\readers\common.js133251946609360603 0
-89C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133254999006548001 0
+89C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133255433152962294 0
 104C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\readers\sync.js133251946612295450 0
 109C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\providers\async.d.ts133251946612733915 0
 107C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\providers\async.js133251946608274531 0
@@ -4601,7 +4601,7 @@
 83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\.bin\semver.cmd133251946623841395 0
 83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\.bin\terser.cmd133251946623841395 0
 83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\.bin\terser.ps1133251946623841395 0
-93C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133254999006587899 0
+93C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133255433152982243 0
 82C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.html133254992705929265 0
 80C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js133254992704503237 0
 84C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js.map133254992704553083 0
