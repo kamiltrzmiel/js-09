@@ -1,4 +1,4 @@
-4942
+4944
 97C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\lv.js133259707715690635 0
 98C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\yaml\browser\dist\package.json133251946615884109 0
 72C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\.bin133251946623831406 1
@@ -90,7 +90,7 @@
 103C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\source-map\dist\source-map.debug.js133251946613337440 0
 120C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\keyboardevent-location.js133251946620701806 0
 130C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\abortcontroller-polyfill\dist\abortcontroller-polyfill-only.js133251946608747681 0
-59C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist133260190331404641 1
+59C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist133260453909383803 1
 98C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\type-fest\source\value-of.d.ts133251946614563333 0
 89C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\parent-module\license133251946608421782 0
 67C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules133259722370205661 1
@@ -179,7 +179,7 @@
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\IT.js133251946620541345 0
 90C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\is-number\package.json133251946607683154 0
 106C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133251946612714026 0
-76C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\src\js\03-promises.js133251856860000000 0
+76C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\src\js\03-promises.js133260453908954946 0
 92C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\nth-check\lib\compile.js133251946608140923 0
 95C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\utils\src\schema.js133251946616413020 0
 84C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\posthtml-include133251946608806445 1
@@ -1067,7 +1067,7 @@
 105C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\workers\test\cpuCount.test.js133251946612374872 0
 92C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\css-tree\data\patch.json133251946617622417 0
 84C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\mdn-data\LICENSE133251946607673177 0
-76C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\03-promises.html133260159455080633 0
+76C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\03-promises.html133260453662234819 0
 111C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\plugins\monthSelect\index.js133259707715501140 0
 76C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\lmdb\src133251946617060826 1
 107C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\type-fest\source\async-return-type.d.ts133251946609104952 0
@@ -2343,7 +2343,7 @@
 85C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\is-json\README.md133251946608431755 0
 107C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\core\lib\ParcelConfig.schema.js133251946617169429 0
 89C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\is-json\test\index.js133251946610110181 0
-81C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.1ec7ba0d.css133260159453145816 0
+81C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.1ec7ba0d.css133260453661995456 0
 84C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\is-glob\index.js133251946608024825 0
 86C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\commander\index.js133251946608451702 0
 97C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\sk.js133259707716059650 0
@@ -2524,6 +2524,7 @@
 115C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\src\style\themes\material_orange.styl133259707716468560 0
 122C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\nested\test.js133251946616701025 0
 95C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\typings.d.ts133259707717226533 0
+87C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\03-promises.219e03d5.js.map133260453662135083 0
 112C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\src\style\themes\material_red.styl133259707716468560 0
 95C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\l10n\sr.d.ts133259707717196614 0
 108C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\plugins\scrollPlugin.d.ts133259707717136769 0
@@ -2618,7 +2619,7 @@
 118C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js133251946614413442 0
 95C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\l10n\is.d.ts133259707716887444 0
 108C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\filesystem.js133251946619422466 0
-93C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133260159453255522 0
+93C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133260453662135083 0
 95C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\l10n\da.d.ts133259707716608178 0
 95C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\l10n\eo.d.ts133259707716658046 0
 97C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@swc\helpers\lib\_decorate.js133251946614513186 0
@@ -3384,7 +3385,7 @@
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\BY.js133251946616790786 0
 115C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\resolver-default\src\DefaultResolver.js133251946608651168 0
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\CA.js133251946616840655 0
-82C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\index.101ee4ef.css.map133260159453265495 0
+82C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\index.101ee4ef.css.map133260453662125101 0
 107C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\runtime-browser-hmr\src\loaders133251946610671130 1
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\CD.js133251946616927790 0
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\CG.js133251946616960864 0
@@ -3497,7 +3498,7 @@
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\RO.js133251946622222452 0
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\RU.js133251946622239465 0
 104C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-babel\lib\jsx.js133251946612384843 0
-85C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.1ec7ba0d.css.map133260159453265495 0
+85C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.1ec7ba0d.css.map133260453662135083 0
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\SB.js133251946622288863 0
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\SC.js133251946622298859 0
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\SD.js133251946622350667 0
@@ -4289,6 +4290,7 @@
 115C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-html\lib\HTMLTransformer.js133251946609151199 0
 106C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-html\lib\inline.js133251946610031790 0
 99C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-css\LICENSE133251946607729160 0
+83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\03-promises.219e03d5.js133260453661975507 0
 97C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-babel\lib133251946613081806 1
 106C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-babel\package.json133251946613317497 0
 103C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\runtime-browser-hmr\LICENSE133251946607729160 0
@@ -4324,7 +4326,7 @@
 111C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\package-manager\test\fixtures\empty133251946614473287 1
 90C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\runtime-js\src133251946614072092 1
 103C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\runtime-js\src\JSRuntime.js133251946614094714 0
-83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js133260159453175730 0
+83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js133260453909343896 0
 107C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\runtime-js\src\helpers\.babelrc133251946607870848 0
 113C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\runtime-js\src\helpers\.eslintrc.json133251946615353705 0
 106C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@parcel\runtime-js\src\helpers\browser133251946614503216 1
@@ -4754,7 +4756,7 @@
 102C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\settings.d.ts133251946613422921 0
 103C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\types\index.js133251946610973976 0
 106C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\readers\common.js133251946609360603 0
-89C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133260159453135836 0
+89C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133260453662025378 0
 104C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\readers\sync.js133251946612295450 0
 107C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\providers\async.js133251946608274531 0
 109C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.walk\out\providers\index.d.ts133251946613162469 0
@@ -4932,12 +4934,12 @@
 83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\.bin\semver.cmd133251946623841395 0
 83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\.bin\terser.cmd133251946623841395 0
 83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\node_modules\.bin\terser.ps1133251946623841395 0
-82C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.html133260159455080633 0
-80C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js133260190331374726 0
-84C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js.map133260190331394660 0
-73C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.html133260186971471742 0
-87C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133260159453255522 0
-85C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133260159453145816 0
-89C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133260159453255522 0
-78C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\index.101ee4ef.css133260159453185713 0
+82C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\01-color-switcher.html133260453662244780 0
+80C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js133260453661975507 0
+84C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js.map133260453662135083 0
+73C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\02-timer.html133260453662234819 0
+87C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133260453909373830 0
+85C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133260453661975507 0
+89C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133260453662125101 0
+78C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\index.101ee4ef.css133260453661995456 0
 70C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-09\dist\index.html133259783346711355 0
