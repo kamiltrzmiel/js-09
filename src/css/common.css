@@ -3,8 +3,8 @@
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+    'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #fafafa;
@@ -15,4 +15,53 @@ body {
 img {
   display: block;
   max-width: 100%;
+}
+
+.select {
+  display: flex;
+  gap: 10px;
+  margin-left: 50px;
+}
+#datetime-picker {
+  width: 200px;
+  height: 60px;
+  font-size: 24px;
+  border-radius: 5px;
+}
+
+#start-picker {
+  width: 100px;
+  height: 60px;
+  font-size: 24px;
+  border-radius: 5px;
+  background-color: lightgreen;
+  cursor: pointer;
+}
+
+.timer {
+  display: flex;
+  flex-direction: row;
+  font-size: 24px;
+  gap: 15px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.field {
+  display: flex;
+  border: 2px solid grey;
+  flex-direction: column;
+  text-align: center;
+  width: 160px;
+  border-radius: 5px;
+}
+.value {
+  font-size: 24px;
+  border: 2px solid goldenrod;
+  border-radius: 5px;
+  margin: 5px;
+}
+.notiflix-notify {
+  display: flex;
+  top: 40px;
 }
