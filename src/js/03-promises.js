@@ -12,7 +12,7 @@ const createPromise = (position, delay) => {
       shouldResolve
         ? resolve(`✅ Fulfilled promise ${position} in ${delay}ms`)
         : reject(`❌ Rejected promise ${position} in ${delay}ms`);
-    }, delay);
+    });
   });
 };
 

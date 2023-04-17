@@ -72,6 +72,7 @@ datePickrEl.addEventListener('input', e => {
         minutesEl.innerHTML = addLeadingZero(0);
         hoursEl.innerHTML = addLeadingZero(0);
         daysEl.innerHTML = addLeadingZero(0);
+        workingEl.textContent = 'End time';
       }
       currentSymbolIndex = (currentSymbolIndex + 1) % workSymbols.length;
       workingEl.textContent = 'Working ' + workSymbols[currentSymbolIndex];
