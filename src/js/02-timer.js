@@ -59,12 +59,15 @@ datePickrEl.addEventListener('input', e => {
   startEl.addEventListener('click', () => {
     const countdown = setInterval(() => {
       const currentDate = new Date().getTime();
-      let timeLeft = pickedDate - currentDate;
+      const timeLeft = pickedDate - currentDate;
 
       secondsEl.innerHTML = addLeadingZero(convertMs(timeLeft).seconds);
       minutesEl.innerHTML = addLeadingZero(convertMs(timeLeft).minutes);
       hoursEl.innerHTML = addLeadingZero(convertMs(timeLeft).hours);
       daysEl.innerHTML = addLeadingZero(convertMs(timeLeft).days);
+      currentSymbolIndex = (currentSymbolIndex + 1) % workSymbols.length;
+      workingEl.textContent = 'Working ' + workSymbols[currentSymbolIndex];
+      startEl.disabled = true;
 
       if (timeLeft < 0) {
         clearInterval(countdown);
@@ -72,11 +75,8 @@ datePickrEl.addEventListener('input', e => {
         minutesEl.innerHTML = addLeadingZero(0);
         hoursEl.innerHTML = addLeadingZero(0);
         daysEl.innerHTML = addLeadingZero(0);
-        workingEl.textContent = 'End time';
+        workingEl.innerHTML = 'Done' + '\u263A';
       }
-      currentSymbolIndex = (currentSymbolIndex + 1) % workSymbols.length;
-      workingEl.textContent = 'Working ' + workSymbols[currentSymbolIndex];
-      startEl.disabled = true;
     }, 1000);
   });
 });
