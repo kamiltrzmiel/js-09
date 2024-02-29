@@ -1,1 +1,1 @@
-# <a href="https://kamiltrzmiel.github.io/goit-js-hw-09/">Visit site JS-HW-09</a>
+# <a href="https://kamiltrzmiel.github.io/js-09/">Visit site</a>
